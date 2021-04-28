@@ -1,6 +1,4 @@
-
 var script_version = "0.2 beta";
-
 
 var dateTimeFormat = new Intl.DateTimeFormat('en', { year: 'numeric', month: 'short', day: '2-digit', hour: 'numeric', minute: 'numeric', hour12: false });
 
